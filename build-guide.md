@@ -145,7 +145,7 @@ Here some details on the I/O:
 
 - I found this cute diagram online, use it to fold your manual into a tiny book.
 
-<img src="images/image22.JPG" width="600">
+<img src="images/image22.jpg" width="600">
 
 - If you have done it right, it should look like this
 
