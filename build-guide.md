@@ -82,7 +82,7 @@
 
 <br/>
 
-## STEP 7: Assemble the stack-up.
+## STEP 6: Assemble the stack-up.
 
 - Thread the large FFC through the large cutout in the LED board, and bring the 2 boards together back-to-back.
 
@@ -99,7 +99,7 @@
 
 <br/>
 
-## STEP 8: Install the enclosure
+## STEP 7: Install the enclosure
 
 - Place the PCB assembly into the enclosure, inserting the jacks first.  
 - Install the 4 large black 6-32 x 3/8" screws.  
@@ -121,7 +121,7 @@ Here some details on the I/O:
 
 <br/>
 
-## STEP 9: Flash the SD Card files, and instal the card
+## STEP 8: Flash the SD Card files, and instal the card
 
 - Download `sdcard.zip` from this repository.
 - Unzip the contents, this will produce a directory called `sdcard`
@@ -132,7 +132,7 @@ Here some details on the I/O:
 
 <br/>
 
-## STEP 10: First boot
+## STEP 9: First boot
 
 - Apply power to the M0SS-309.
 - After about 4 seconds, lights on the front panel should twinkle for a few more seconds as it boots.
@@ -141,7 +141,7 @@ Here some details on the I/O:
 
 <br/>
 
-## STEP 11: Construct the manual
+## STEP 10: Construct the manual
 
 - I found this cute diagram online, use it to fold your manual into a tiny book.
 
@@ -150,14 +150,3 @@ Here some details on the I/O:
 - If you have done it right, it should look like this
 
 <img src="images/image13.JPG" width="600">
-
-
-
-
-
-
-
-
-
-
-
