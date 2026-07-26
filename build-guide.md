@@ -32,7 +32,7 @@
 ## STEP 1: Add solder to the 1/8" jacks
 - These parts were sometimes not soldered well at the manufacturer. Add solder to the 6 tabs (3 tabs on each 1/8" jack) to reinforce them. During this process be VERY cautious to not melt the plastic parts of the jack, nor any of the surrounding parts, like LEDs. You can optionally add one drop of super glue to add strength, place it at the base of the part near the outside edge of the board, but be very careful not to add more then 1 drop, or you risk glueing the part shut!
 
-<img src="images/1.JPG" width="600">
+<img src="images/image1.JPG" width="600">
 
 <br/>
 
