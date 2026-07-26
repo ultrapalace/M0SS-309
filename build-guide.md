@@ -32,7 +32,7 @@
 ## STEP 1: Add solder to the 1/8" jacks
 - These parts were sometimes not soldered well at the manufacturer. Add solder to the 6 tabs (3 tabs on each 1/8" jack) to reinforce them. During this process be VERY cautious to not melt the plastic parts of the jack, nor any of the surrounding parts, like LEDs. You can optionally add one drop of super glue to add strength, place it at the base of the part near the outside edge of the board, but be very careful not to add more then 1 drop, or you risk glueing the part shut!
 
-<img src="images/1.jpg" width="600">
+<img src="images/1.JPG" width="600">
 
 <br/>
 
@@ -40,7 +40,7 @@
 
 - Using pliers, carefully snap off the edge rails. There are rails on the left and right sides of each PCB, 6 edges in total to be removed.
 
-<img src="images/image2.jpg" width="600">
+<img src="images/image2.JPG" width="600">
 
 <br/>
 
@@ -52,7 +52,7 @@
 - Solder one pin of the encoder, and check that it is seated correctly.  
 - Proceed to solder all the pins, and then the lugs.
 
-<img src="images/image3.jpg" width="600">
+<img src="images/image3.JPG" width="600">
 
 <br/>
 
@@ -61,7 +61,7 @@
 - The standoff goes on the back side of the LED PCB.  
 - Use the black M2 x 4mm screw, and be careful to not over tighten it. ⅛ of a turn past hand-tight is great.
 
-<img src="images/image4.jpg" width="600">
+<img src="images/image4.JPG" width="600">
 
 <br/>
 
@@ -72,13 +72,13 @@
 
 <br/>
 
-<img src="images/image5.jpg" width="600">
+<img src="images/image5.JPG" width="600">
 
 - Install the small FFC onto the LED board. The small FFC connector is also a flip-lock type.
 - Insert the small FFC with the blue stripe up, sliding it under the lock, and gently wiggle it into place. This may take some patience, and it is ok to try the other end, if you are struggling.  
 - Close the lock.
 
-<img src="images/image6.jpg" width="600">
+<img src="images/image6.JPG" width="600">
 
 <br/>
 
@@ -86,16 +86,16 @@
 
 - Thread the large FFC through the large cutout in the LED board, and bring the 2 boards together back-to-back.
 
-<img src="images/image7.jpg" width="600">
+<img src="images/image7.JPG" width="600">
 
 - Holding the main board with the encoder facing down toward the other boards, pass the encoder through the large round hole in the 2 other boards.
 - Install the silver M2 x 4mm screw through the small hole on the Main PCB, to the standoff on the LED board.
 - On the front panel board, install the encoder nut. When tightening the encoder nut, exercise caution to not scratch the panel, and to not damage any adjacent buttons. Using a plastic socket is ideal.
 - Use the same procedure in step 5 to install both FFCs to their respective connectors on the main board.
 
-<img src="images/image9.jpg" width="600">
-<img src="images/image10.jpg" width="600">
-<img src="images/image8.jpg" width="600">
+<img src="images/image9.JPG" width="600">
+<img src="images/image10.JPG" width="600">
+<img src="images/image8.JPG" width="600">
 
 <br/>
 
@@ -107,8 +107,8 @@
 - Install the knob onto the encoder, looking for the irregularity inside the knob, which mates with the flat side of the encoder shaft.  
 - Optionally, affix the 4 adhesive feet, on the bottom of the enclosure, at each corner.
 
-<img src="images/image11.jpg" width="600">  
-<img src="images/image12.jpg" width="600">
+<img src="images/image11.JPG" width="600">  
+<img src="images/image12.JPG" width="600">
 
 <br/>
 
@@ -145,11 +145,11 @@ Here some details on the I/O:
 
 - I found this cute diagram online, use it to fold your manual into a tiny book.
 
-<img src="images/image22.jpg" width="600">
+<img src="images/image22.JPG" width="600">
 
 - If you have done it right, it should look like this
 
-<img src="images/image13.jpg" width="600">
+<img src="images/image13.JPG" width="600">
 
 
 
